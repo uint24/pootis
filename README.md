@@ -33,7 +33,7 @@ Common Team Fortress 2 installation paths:
 ## Command line arguments
 
 ```
--novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
+-novid -nojoy -nosteamcontroller -nohltv -noquicktime -noipx -particles 1 -precachefontchars -sillygibs 
 ```
 
 ## Community maps installed
