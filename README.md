@@ -41,3 +41,18 @@ Common Team Fortress 2 installation paths:
 | Map Name    | Map Identifier                     | Steam Workshop URL                                           |
 | ----------- | ---------------------------------- | ------------------------------------------------------------ |
 | Walkway     | `tr_walkway_rc2` | [URL](https://steamcommunity.com/sharedfiles/filedetails/?id=606778917) (originally from [GameBanana](https://gamebanana.com/mods/74812)) |
+
+## FAQ
+
+* <details>
+  <summary>How do I delete all game cache files?</summary>
+  <p>
+
+  On \*nix systems:
+
+  ```bash
+  find . -name "*.cache" -type f -delete
+  ```
+
+  </p>
+  </details>
