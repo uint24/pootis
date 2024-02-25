@@ -35,3 +35,9 @@ Common Team Fortress 2 installation paths:
 ```
 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 ```
+
+## Community maps installed
+
+| Map Name    | Map Identifier                     | Steam Workshop URL                                           |
+| ----------- | ---------------------------------- | ------------------------------------------------------------ |
+| Walkway     | `tr_walkway_rc2` | [URL](https://steamcommunity.com/sharedfiles/filedetails/?id=606778917) (originally from [GameBanana](https://gamebanana.com/mods/74812)) |
