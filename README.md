@@ -57,3 +57,14 @@ Common Team Fortress 2 installation paths:
 
   </p>
   </details>
+
+* <details>
+  <summary>How to make sure my sounds will work properly in-game</summary>
+  <p>
+
+  ```bash
+  ffmpeg -i filename.mp3 -ar 44100 -c:a pcm_s16le hitsound.wav
+  ```
+
+  </p>
+  </details>
