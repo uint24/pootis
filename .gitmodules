@@ -1,0 +1,4 @@
+[submodule "tf/custom/flawhud"]
+	path = tf/custom/flawhud
+	url = https://github.com/CriticalFlaw/flawhud
+	branch = 27c6b0fd1f35584a52fdfd211cc71e6da7bff41c
